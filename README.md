@@ -1,5 +1,16 @@
 # DrysalteryDaily_CN
 
+#2016/12/28
+##算法
+[求解矩阵内 各方向最多的1个数|最长子序列？](http://www.cppblog.com/aaxron/archive/2014/08/26/198487.html)
+
+##其他
+###滑铁卢大学合作
+[Hamdullahpur将与清华大学、南京大学、北京交通大学、浙江大学、苏州大学等五所中国顶尖大学的代表会面](http://mtw.mt-wire.com/news-65762.html)
+###业界
+[预见中国｜企业级存储未来势力图（二）](http://liangsheng.baijia.baidu.com/article/191438)
+
+
 #2017-1-3 18:02:31
 
 ##网络
