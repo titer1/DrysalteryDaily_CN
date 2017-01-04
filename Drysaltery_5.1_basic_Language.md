@@ -12,7 +12,6 @@ This is chinese version, later will added english version
 
 [从表到里学习JVM实现|至少6本](https://www.douban.com/doulist/2545443/)
 
-
 ```
 这里选取《Virtual Machines: Versatile Platforms for Systems and Processes》，帮助您了解“虚拟机”一词到底指代什么，有什么不同类型，大概有哪些实现方法，等等。读完这本书有助获得一个清晰的大局观
 
@@ -26,6 +25,20 @@ This is chinese version, later will added english version
 （不过请注意自己对着代码确实把知识消化掉，因为这个第一版的内容有不少小错误嗯…） 
 
 ```
+##java容器研究
+[给jdk写注释系列之jdk1.6容器 系列之一 | 理论实践结合+benchmark](http://www.cnblogs.com/tstd/p/5138104.html)
+```
+对于java容器或集合的学习也可以看做是对数据结构的学习与应用。在前面我们分析了很多的java容器，也接触了好多种常用的数据结构，今天我们就来总结下这些内容。
+```
+[java_mzd作品：线性表分析及Java实现](http://java-mzd.iteye.com/blog/826059)
+```
+我们写的ArrayList在插入方法的效率都已经超过JDK了，而且也接近LinkedLst了。撒花！！！
+```
+[java_mzd作品：Hash表分析以及Java实现](http://java-mzd.iteye.com/blog/827523)
+```
+  100W个数据时，全部存储时间为1S多一点，而搜寻时间为0 
+```
+
 
 ##实践类
 [集合android UI特效的开源工程|某android大牛作品](http://www.codekk.com)
@@ -41,6 +54,8 @@ This is chinese version, later will added english version
 [程序员技能雷达](http://yanghuidang.iteye.com/blog/1267547)
 
 [程序员读书雷达](http://m.blog.csdn.net/article/details?id=52329358)
+
+[JDK自带工具之问题排查场景示例](http://mp.weixin.qq.com/s?src=3&timestamp=1482223939&ver=1&signature=uU8JOuu3EvW4WBCkvgRwIqhC7qx7Rk*CwDLmABy9AmSQAT4OzhvQ5ks8j7HStE8pvaUnI8oA3FKotx67KLvQntXIhbznjtIJGDYMnLsrJdVbYi5S-dFAQelWfQLNxg6eKPRUQvVw-J0xB5vkTw9Fg7dGKjAPghBSX0As5N1QbQs=)
 
 #attachments
 
