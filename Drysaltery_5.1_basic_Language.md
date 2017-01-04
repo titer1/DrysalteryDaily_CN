@@ -51,7 +51,10 @@ Koloboke提供了一套完整的集合原始类型的实现，可以避免开销
 
 
 #python
-
+[python 数据结构 在线实践](http://interactivepython.org/courselib/static/pythonds/Introduction/toctree.html)
+```所见即所得
+```
+[python 数据结构 在线实践 之阅读笔记](https://hujiaweibujidao.github.io/python/)
 
 #c##
 
@@ -62,6 +65,18 @@ Koloboke提供了一套完整的集合原始类型的实现，可以避免开销
 [程序员读书雷达](http://m.blog.csdn.net/article/details?id=52329358)
 
 [JDK自带工具之问题排查场景示例](http://mp.weixin.qq.com/s?src=3&timestamp=1482223939&ver=1&signature=uU8JOuu3EvW4WBCkvgRwIqhC7qx7Rk*CwDLmABy9AmSQAT4OzhvQ5ks8j7HStE8pvaUnI8oA3FKotx67KLvQntXIhbznjtIJGDYMnLsrJdVbYi5S-dFAQelWfQLNxg6eKPRUQvVw-J0xB5vkTw9Fg7dGKjAPghBSX0As5N1QbQs=)
+
+[对你的 Python 代码进行性能分析](http://pycoders-weekly-chinese.readthedocs.io/en/latest/issue10/down-the-rabbit-hole-profiling-your-python-code.html)
+```
+ cProfile 。 行分析器 可以给出每一行的运行时间
+```
+[Python 性能小贴士 (第1部分)](http://pycoders-weekly-chinese.readthedocs.io/en/latest/issue1/python-performance-tips-part-1.html)
+```
+YouTube 已经证明了 Python 有能力处理每小时4000万视频的需求
+```
+###todo
+-希望找到python内置数据结构模拟实现的性能对比
+
 
 #attachments
 
