@@ -39,6 +39,12 @@ This is chinese version, later will added english version
   100W个数据时，全部存储时间为1S多一点，而搜寻时间为0 
 ```
 
+[Java集合框架Koloboke详解| 含官网链接+内置benchmark](http://blog.csdn.net/chszs/article/details/50511851)
+```
+Koloboke目前的版本主要是替换java.util.HashSet和java.util.HashMap。
+Koloboke提供了一套完整的集合原始类型的实现，可以避免开销很大的装箱/拆箱操作，节省了原始类型装箱消耗的内存。
+```
+
 
 ##实践类
 [集合android UI特效的开源工程|某android大牛作品](http://www.codekk.com)
