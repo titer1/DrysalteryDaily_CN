@@ -39,12 +39,17 @@ This is chinese version, later will added english version
 
 ##others
 [程序员技能雷达](http://yanghuidang.iteye.com/blog/1267547)
+
 [程序员读书雷达](http://m.blog.csdn.net/article/details?id=52329358)
 
 #attachments
 
 ##java虚拟机（JVM）书单精选
+
 -周志明的《深入理解Java虚拟机》
+
 -自制编程语言
+
 -Language Implementation Patterns
+
 -HotSpot实战
