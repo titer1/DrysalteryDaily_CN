@@ -1,11 +1,8 @@
 
 This is chinese version, later will added english version
 
-#c
 
-#c++
-
-#java
+#1.java
 
 
 [compare c++ with java](https://java.quanke.name/%E9%99%84%E5%BD%95B%20%E5%AF%B9%E6%AF%94C++%E5%92%8CJava.html)
@@ -25,7 +22,7 @@ This is chinese version, later will added english version
 （不过请注意自己对着代码确实把知识消化掉，因为这个第一版的内容有不少小错误嗯…） 
 
 ```
-##java容器研究
+##1.1 java容器研究
 [给jdk写注释系列之jdk1.6容器 系列之一 | 理论实践结合+benchmark](http://www.cnblogs.com/tstd/p/5138104.html)
 ```
 对于java容器或集合的学习也可以看做是对数据结构的学习与应用。在前面我们分析了很多的java容器，也接触了好多种常用的数据结构，今天我们就来总结下这些内容。
@@ -50,16 +47,17 @@ Koloboke提供了一套完整的集合原始类型的实现，可以避免开销
 [集合android UI特效的开源工程|某android大牛作品](http://www.codekk.com)
 
 
-#python
+#2 python
 [python 数据结构 在线实践](http://interactivepython.org/courselib/static/pythonds/Introduction/toctree.html)
 ```所见即所得
 ```
 [python 数据结构 在线实践 之阅读笔记](https://hujiaweibujidao.github.io/python/)
 
-#c##
+#3. c
 
+#4. c++
 
-##others
+#5. others
 [程序员技能雷达](http://yanghuidang.iteye.com/blog/1267547)
 
 [程序员读书雷达](http://m.blog.csdn.net/article/details?id=52329358)
@@ -74,11 +72,11 @@ Koloboke提供了一套完整的集合原始类型的实现，可以避免开销
 ```
 YouTube 已经证明了 Python 有能力处理每小时4000万视频的需求
 ```
-###todo
+##todo
 -希望找到python内置数据结构模拟实现的性能对比
 
 
-#attachments
+#7.attachments
 
 ##java虚拟机（JVM）书单精选
 
