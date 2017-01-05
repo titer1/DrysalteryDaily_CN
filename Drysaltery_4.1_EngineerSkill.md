@@ -30,6 +30,54 @@ TODO
 
 
 
+
+
+#2. 线程池技术
+todo优化按照语言分，按照基础 进阶
+
+[《C++ Concurrency in Action: 高级线程管理](http://wiki.jikexueyuan.com/project/cplusplus-concurrency-action/content/chapter9/chapter9-chinese.html)
+```
+std::vector<std::thread> thread_pool;
+基于线程池的快速排序实现
+```
+[High performance C++14 thread pool with ben | github](https://github.com/inkooboo/thread-pool-cpp)
+
+[Linux平台下C++(C++98、C++03、C++11)实现的线程池| github ,no bench](https://github.com/lizhenghn123/zl_threadpool)
+
+[用 C++ 写线程池是怎样一种体验？](https://www.zhihu.com/question/27908489)
+
+[ Linux高性能服务器编程——进程池和线程池](http://blog.csdn.net/walkerkalr/article/details/37729323)
+
+[Java几种线程池的分析和使用](https://zhuanlan.zhihu.com/p/22882522)
+[如何合理地估算线程池大小？](https://edagarli.gitbooks.io/java-route/content/ru_he_he_li_di_gu_suan_xian_cheng_chi_da_xiao_ff1f.html)
+```
+Java成神技术路线
+JVM 优化
+如何将新对象预留在年轻代
+如何让大对象进入年老代
+如何设置对象进入年老代的年龄
+稳定的 Java 堆 VS 动荡的 Java 堆
+增大吞吐量提升系统性能
+尝试使用大的内存分页
+Java基础知识
+Java NIO与IO
+Java并发编程
+Java并发编程之CAS
+ConcurrentHashMap 的实现原理
+深入理解ThreadLocal
+如何合理地估算线程池大小？
+无锁的并行计算之Amino框架
+优化高并发之协程
+Disruptor使用入门
+
+```
+[线程池的介绍及简单实现 | java, linux,with code]()
+##todo
+
+threadpool c++ performance
+
+
+
 #参考 
 ##技术雷达
   实战经验能力（程序员参与过哪些程序的开发，使用过什么类库、框架）
